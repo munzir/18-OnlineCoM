@@ -1,0 +1,3 @@
+/home/apatel435/Desktop/krang_recover_beta/build/CMakeFiles/rebuild_cache.dir
+/home/apatel435/Desktop/krang_recover_beta/build/CMakeFiles/recoverBeta.dir
+/home/apatel435/Desktop/krang_recover_beta/build/CMakeFiles/edit_cache.dir
