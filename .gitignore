@@ -1,0 +1,18 @@
+# Exclude all files/directories except the ones I want
+/*
+
+# .gitignore
+!.gitignore
+
+# Readme
+!README.md
+
+# Temp Scripts
+!comp_phi_matrix.cpp
+!recoverBeta.cpp
+
+# Temp Folders
+!/krang_recover_beta
+/krang_recover_beta/*
+!/simulatePoses
+/simulatePoses/*
