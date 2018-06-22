@@ -10,4 +10,6 @@
 # Misc.
 !/misc/
 /misc/*
-!/misc/things_i_did_on_krang.txt
+!/misc/krang_internet/
+/misc/krang_internet/*
+!/misc/krang_internet/things_i_did_on_krang.txt

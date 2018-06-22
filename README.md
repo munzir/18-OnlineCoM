@@ -15,3 +15,7 @@ This project performs disturbance rejection control to stabilize the robot
 despite an inaccurate reading of the center of mass.
 
 ## 18e: To Be Announced
+
+## Miscellaneous
+Directory containing miscellaneous files that do not relate to the OnlineCoM
+project but are still pertinent to the other aspects of the Krang Lab Group.
