@@ -1,0 +1,49 @@
+What is the problem?
+>Krang needs internet
+
+>Possible avenues of failure
+-> Solution/Method
+--> Verdict
+
+> Ethernet port does not have internet
+-> Checked on personal laptop
+--> Ethernet port has internet
+
+> Ethernet cable does not work
+-> Checked on personal laptop
+--> Ethernet cable works
+
+> Interface (wlan0) doesnt work properly
+-> Looked into the /etc/network/interfaces file
+Believe the problem is the fact that eth0 is configured as `static`
+IP address is hardcoded 192.168.1.54
+Gateway is hardcoded 192.168.1.1
+Network is hardcoded 255.255.255.0
+Another issue may be the fact of using `allow-hotplug`
+Refer to `man interfaces` for more information
+
+Possible solution: Edit this file and configure the eth0 interface to
+dynamically acquire an IP address via `dhcp`
+Proposed eth0 configuration:
+# Could change `allow-hotplug` to `auto` to make internet connection with less hurdles
+# Problem is that using `auto` might be dangerous since krang would try to
+# connect to internet whenever it can (may lead to unsupervised connections that
+# could result in possible cyber attacks on krang)
+# allow-hotplug should work with events like "being detected by udev hotplug
+# api" or "cable linked"
+# Thorough configuration flags can be found via `man interfaces`
+auto-hotplug eth0
+iface eth0 inet dhcp
+
+Created a copy of old `/etc/network/interfaces` file as `interfaces_original`
+and an the proposed solution file as `interfaces_edited`
+Have not edited the actual file yet
+--> Awaiting verdict
+*** Still need to test with the edited file ***
+
+> dhclient is not connecting to interface properly
+-> Created a copy of the original /etc/dhcp/dhclient.conf file called
+dhclient_original.conf
+Have not made any changes to the file
+--> Awaiting verdict
+** Have not edited the actual dhclient.conf file yet **

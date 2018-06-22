@@ -6,3 +6,8 @@
 
 # Readme
 !README.md
+
+# Misc.
+!/misc/
+/misc/*
+!/misc/things_i_did_on_krang.txt
