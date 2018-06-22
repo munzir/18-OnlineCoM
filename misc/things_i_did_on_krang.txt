@@ -60,7 +60,11 @@ Could try to use my laptop's dhclient.conf file as reference
 File contents are the same
 --> Not changed since contents are the same
 
->dhclient/dhcp is not working
+> dhclient/dhcp is not working
 -> Try to use another network manager like netctl
 Need to install it locally via package on USB
 --> Still need to try
+
+> GT ethernet is rejecting the MAC address
+-> Talk to IT maybe
+--> Need to pursue
