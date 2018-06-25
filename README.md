@@ -17,7 +17,6 @@ despite an inaccurate reading of the center of mass.
 ## 18e
 To Be Announced
 
-##
-[Miscellaneous](https://github.gatech.edu/WholeBodyControlAttempt1/18OnlineCoM/tree/master/misc)
+## [Miscellaneous](https://github.gatech.edu/WholeBodyControlAttempt1/18OnlineCoM/tree/master/misc)
 Directory containing miscellaneous files that do not relate to the OnlineCoM
 project but are still pertinent to the other aspects of the Krang Lab Group.
