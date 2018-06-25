@@ -14,8 +14,10 @@ This project attempts to converge to a set of parameters (mass & CoM for each ro
 This project performs disturbance rejection control to stabilize the robot
 despite an inaccurate reading of the center of mass.
 
-## 18e: To Be Announced
+## 18e
+To Be Announced
 
-## Miscellaneous
+##
+[Miscellaneous](https://github.gatech.edu/WholeBodyControlAttempt1/18OnlineCoM/tree/master/misc)
 Directory containing miscellaneous files that do not relate to the OnlineCoM
 project but are still pertinent to the other aspects of the Krang Lab Group.
