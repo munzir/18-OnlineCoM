@@ -67,4 +67,6 @@ Need to install it locally via package on USB
 
 > GT ethernet is rejecting the MAC address
 -> Talk to IT maybe
---> Need to pursue
+--> IT people said that since Debian 7 is unsupported Krang is blacklisted on GT
+internet. They did however put us on outlawn which is internet offered by GT but
+not maintained by them i.e. not guaranteed to be secure.
