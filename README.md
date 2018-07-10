@@ -20,3 +20,6 @@ Repository containing files for IEEE Humanoids submission.
 ## [Miscellaneous](https://github.gatech.edu/WholeBodyControlAttempt1/18OnlineCoM/tree/master/misc)
 Directory containing miscellaneous files that do not relate to the OnlineCoM
 project but are still pertinent to the other aspects of the Krang Lab Group.
+
+## [Pose Datasets](http://github.gatech.edu/WholeBodyControlAttempt1/18OnlineCoM/tree/master/poseDatasets)
+Directory containing datsets on poses for Krang.
