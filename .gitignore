@@ -12,6 +12,7 @@
 /poseDatasets/*
 !/poseDatasets/random10000fullbalance0.001000tolunsafe.txt
 !/poseDatasets/filteredPosesrandom6003fullbalance0.001000tolsafe2.000000*10e-3filter.txt
+!/poseDatasets/filteredPosesRandom.txt
 
 
 # Misc.
