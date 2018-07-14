@@ -17,6 +17,9 @@ despite an inaccurate reading of the center of mass.
 ## [18e: Online CoM Paper](https://github.gatech.edu/WholeBodyControlAttempt1/18eOnlineCoMPaper)
 Repository containing files for IEEE Humanoids submission.
 
+## [18f: Trajectory Planning](https://github.gatech.edu/WholeBodyControlAttempt1/18fTrajectoryPlanning)
+This project attempts to plan a safe trajectory for a series of poses.
+
 ## [Miscellaneous](https://github.gatech.edu/WholeBodyControlAttempt1/18OnlineCoM/tree/master/misc)
 Directory containing miscellaneous files that do not relate to the OnlineCoM
 project but are still pertinent to the other aspects of the Krang Lab Group.
