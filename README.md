@@ -15,7 +15,7 @@ This project performs disturbance rejection control to stabilize the robot
 despite an inaccurate reading of the center of mass.
 
 ## [18e: Online CoM Paper](https://github.gatech.edu/WholeBodyControlAttempt1/18e-OnlineCoMPaper)
-Repository containing files for IEEE Humanoids submission.
+Repository containing files for the Online Center of Mass Estimation Paper.
 
 ## [18f: Trajectory Planning](https://github.gatech.edu/WholeBodyControlAttempt1/18f-TrajectoryPlanning)
 This project attempts to plan a safe trajectory for a series of poses.
