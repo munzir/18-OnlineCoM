@@ -29,3 +29,6 @@ project but are still pertinent to the other aspects of the Krang Lab Group.
 
 ## [Pose Datasets](http://github.gatech.edu/WholeBodyControlAttempt1/18-OnlineCoM/tree/master/poseDatasets)
 Directory containing datsets on poses for Krang.
+
+## [Beta Convergence](http://github.gatech.edu/WholeBodyControlAttempt1/18-OnlineCoM/tree/master/betaConvergence)
+Directory containing datsets on beta values for Krang.

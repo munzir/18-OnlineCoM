@@ -15,6 +15,8 @@
 #!/poseDatasets/filteredPoses500initialBetarandom6003fullbalance0.001000tolsafe2.000000*10e-3filter.txt
 #!/poseDatasets/filteredPosesRandom.txt
 
+!/betaConvergence/
+
 
 # Misc.
 !/misc/
