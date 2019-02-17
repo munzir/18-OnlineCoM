@@ -9,6 +9,7 @@
 
 # CMakeLists
 !CMakeLists.txt
+!cmake_uninstall.cmake.in
 
 # Datasets
 !/poseDatasets/
