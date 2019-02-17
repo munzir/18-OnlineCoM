@@ -1,6 +1,23 @@
 # [18-OnlineCoM](https://github.gatech.edu/WholeBodyControlAttempt1/18-OnlineCoM)
 Codebase for the OnlineCoM, including scripts created during the progress of the project.
 
+## Installation
+
+ 1: Enter the project directory
+
+ 2: Install the project
+
+    mkdir build
+    cd build
+    cmake ..
+    sudo make install
+
+## Uninstall
+
+ To remove system files created by the installation of this repo.
+
+    sudo make uninstall
+
 ## [18a-CreatePoses](https://github.gatech.edu/WholeBodyControlAttempt1/18a-CreatePoses)
 This project contains multiple scripts to generate different sets of poses to be used for data analysis.
 
